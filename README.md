@@ -1,2 +1,2 @@
-# arduinoexamples
-Arduino examples from the book
+# Arduino Examples
+Examples from the Arduino Starter Kit Book
